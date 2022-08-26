@@ -3,21 +3,11 @@ global_requestAddress = "";
 //登录接口
 js_global_requestAddress_login="/login";
 
-//获取玩法
-js_global_requestAddress_SetPlay = "/SetPlay"
+//获取飞机号列表
+js_global_requestAddress_GetHash="/GetHash"
 
-//账单
-js_global_requestAddress_GetRecord = "/GetRecord"
-
-//更新每日数据
-js_global_requestAddress_SetEverydayStatistics = "/SetEverydayStatistics"
-
-//获取每日数据
-js_global_requestAddress_GetEverydayStatistics = "/GetEverydayStatistics"
-
-
-//获取玩家数据
-js_global_requestAddress_GetUsers="/GetUsers"
+//导出文件
+js_global_requestAddress_DownHash="/DownHash"
 
 
 //获取目录路径方法
